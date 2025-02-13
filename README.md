@@ -2,7 +2,11 @@
 
 ## 👨 Sobre mim
 
-### Olá, seja bem-vindo(a) a(o) meu perfil! Me chamo Pedro Henrique Nunes, tenho 22 anos, formado em Análise e Desenvolvimento de Sistemas e apaixonado por qualidade de software. Atualmente estou aprofundando meus conhecimento em Testes manuais e automatizados, buscando constantemente melhorar minhas habilidades e contribuir para a entrega de soluções robustas e eficientes.
+### Olá, seja bem-vindo(a) a(o) meu perfil! Tenho 22 anos, sou Formado em Análise e Desenvolvimento de Sistemas pelo IESB e Pós-graduando em QA e Teste de Software pela VINCIT.
+### Também estou participando do programa de formação em Qualidade de Software do Qa.Coders Academy
+
+### > [Meu LinkedIn](https://www.linkedin.com/in/nunescodex/)
+### > [Qa.Coders Academy](https://qacoders-academy.com.br/)
 
 ### 📂 [Meu Portfólio](https://nunescode.github.io) // 🗒️ [Meu Currículo](https://docs.google.com/document/d/1zdF6oKXj-5EAD0SiyaqBBW46QiVY3QyB_dBbgyoE4Zg/edit?usp=sharing)
 - Desenvolvi meu portfólio utilizando HTML, CSS e Javascript, com um design responsivo e clean para apresentar meus projetos de forma profissional e organizada.
@@ -42,8 +46,6 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🌟 Estou animado para aplicar meu conhecimento prático em projetos desafiadores que demandem atenção à qualidade e inovação. Busco aprender com cada experiência, contribuir de forma colaborativa e continuar aprendendo e crescendo como profissional.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nunescode&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique Nunes github stats" /> 
